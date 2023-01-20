@@ -140,9 +140,7 @@ console.log("Your final score is: "+ score);
 
 
 
-// // const chalk = require("chalk");
 
-// import chalk from 'package.json';
 
 
 
